@@ -35,3 +35,6 @@ background-color:#CB4335 ;
     color: #282828;
     font-size: 1.2em;
 }
+#header-nav button {
+    margin-top: 22px;
+}
