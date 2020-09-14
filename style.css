@@ -1,7 +1,7 @@
 body{
 color:black;
 font-family:'Oxygen', sans-serif;
-  font-size:15px;
+  font-size:16px;
 background-color:#CB4335 ;
   height:33px;
   width:795px;
@@ -15,7 +15,7 @@ background-color:#CB4335 ;
   width:795px;
 }
 .navbar-brand{
-  padding-top:15px;
+  padding-top:25px;
 }
 .navbar-brand h1{
   font-family: 'Lora', serif;
