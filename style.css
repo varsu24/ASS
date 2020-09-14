@@ -24,6 +24,6 @@ background-color:#CB4335 ;
     margin-bottom:0;
     text-shadow:1px 1px 1px #2ef5; 
 }
-.navbar-brand a:hover, .navbar-brand a:focus .navbar-brand a:link{
+.navbar-brand a:hover, .navbar-brand a:focus .navbar-brand a:link .navbar-brand a:active{
   text-decoration:none;
 }
