@@ -29,3 +29,9 @@ background-color:#CB4335 ;
 .navbar-brand a:hover, .navbar-brand a:focus .navbar-brand a:link .navbar-brand a:active .navbar-brand a:visited{
   text-decoration:none;
 }
+#nav-list a {
+    /*text-align: center;*/
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
