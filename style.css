@@ -39,3 +39,8 @@ background-color:#CB4335 ;
 #header-nav button {
     margin-top: 22px;
 }
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
