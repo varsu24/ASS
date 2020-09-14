@@ -13,3 +13,17 @@ background-color:#D87093;
 .navbar-brand{
   padding-top:25px;
 }
+.navbar-brand h1{
+  font-family: 'Lora', serif;
+  font-size:1.5em;
+    color:#FFA07A;
+    font-weight:bold;
+    transform:uppercase;
+    margin-top:0px;
+    line-height:.75px;
+    margin-bottom:0px;
+    text-shadow:1px 1px 1px #2ef5; 
+}
+a.navbar-brand a:hover, a.navbar-brand a:focus{
+  text-decoration:none;
+}
