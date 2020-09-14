@@ -1,5 +1,5 @@
 body{
-font-color:black;
+color:black;
 font-family:'Oxygen', sans-serif;
   font-size:15px;
 background-color:#CB4335 ;
@@ -7,8 +7,8 @@ background-color:#CB4335 ;
 }
 #header-nav{
   background-color:yellow;
-  border-radius:10px;
-  border:0px;
+  border-radius:10;
+  border:0;
 }
 .navbar-brand{
   padding-top:15px;
