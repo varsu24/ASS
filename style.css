@@ -3,18 +3,18 @@ color:black;
 font-family:'Oxygen', sans-serif;
   font-size:16px;
 background-color:#CB4335 ;
-  
-
 }
+
 #header-nav{
   background-color:yellow;
   border-radius:0;
-  border:0;
+  margin-top: 0px;
+  border:10px;
 
 }
 .navbar-brand{
-  padding-top:25px;
-  border:25px;
+  padding-top:15px;
+ /*border:25px;*/
 }
 .navbar-brand h1{
   font-family: 'Lora', serif;
@@ -22,25 +22,104 @@ background-color:#CB4335 ;
     color:#FFA07A;
     font-weight:bold;
     text-transform:uppercase;
-    margin-top:10px;
+    margin-top:0;
+    /*margin-right: 10px;*/
     line-height:.75;
     margin-bottom:0;
-    text-shadow:1px 1px 1px #2ef5; 
+    text-shadow:1px 1px 1px #2ef5;
+
 }
-.navbar-brand a:hover, .navbar-brand a:focus .navbar-brand a:link .navbar-brand a:active .navbar-brand a:visited{
+.navbar-brand a:hover, .navbar-brand a:focus, .navbar-brand a:link, .navbar-brand a:active, .navbar-brand a:visited{
   text-decoration:none;
 }
-#nav-list a {
-    /*text-align: center;*/
-    font-weight: bolder;
-    color: #282828;
-    font-size: 1.2em;
-}
 #header-nav button {
-    margin-top: 22px;
+    margin-top: 10px;
 }
-.navbar-brand, .navbar-nav li a {
-    line-height: 76px;
-    height: 76px;
-    padding-top: 0;
+#nav-list{
+  margin-top: 10px;
+}
+#nav-list a{
+  color:#34495E;
+  text-align: center;
+}
+#nav-list a:hover{
+  background-color:#F8C471 ;
+}
+#nav-list a span{
+  font-size:1.9em;
+}
+.navbar-header button.navbar-toggle{
+  clear:both;
+  margin-top: 10px;
+}
+#collapsable-nav a{
+  font-size:1.2em;
+}
+#collapsable-nav a span{
+  font-size:1em;
+  margin-right: 5px;
+}
+
+h2{
+  color:#34495E ;
+  width:auto;
+  height:auto;
+  overflow: hidden;
+  text-shadow: 1px 1px 1px 	#00FF00;
+  position:relative;
+}
+div.container{
+  margin:20px;
+  margin-bottom: 25px;
+  margin-right:  50px;
+
+}
+p{
+  margin: auto;
+
+}
+
+
+.chick{
+  text-align: justify;
+  background-color:#e3c2a3 ;
+  margin-top: auto;
+  border-color: yellow;
+  border: 2px solid #641E16 ;
+  overflow: scroll;
+  font-size: 16px;
+  font-style: 'Oxygen', sans-serif;
+  height: 150px;
+    border-right:15px;
+
+
+
+}
+.bee{
+  text-align: justify;
+  background-color:#e3c2a3  ;
+  margin-top: auto;
+  border-color: yellow;
+  border: 2px solid #641E16 ;
+  overflow: scroll;
+  font-size: 16px;
+  font-style: 'Oxygen', sans-serif;
+  height: 150px;
+    border-right:15px;
+  box-sizing:border-box;
+}
+.sus{
+
+  text-align: justify;
+  background-color: #e3c2a3;
+  margin-top: auto;
+  border-color: yellow;
+  border: 2px solid#641E16;
+  overflow: scroll;
+  font-size: 16px;
+  font-style: 'Oxygen', sans-serif;
+  height: 150px;
+  border-right:15px;
+box-sizing:border-box;
+
 }
